@@ -1,3 +1,3 @@
 export type GreetProps = {
-  name?: String,
-};
+  name?: String
+}
